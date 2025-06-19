@@ -9,8 +9,16 @@
     "volume": "1",
     "issue": "1",
     "publisher": "Springer Science and Business Media LLC",
-    "published_online": [[2024, 12, 5]],
-    "issn": ["2948-1562"],
+    "published_online": [
+      [
+        2024,
+        12,
+        5
+      ]
+    ],
+    "issn": [
+      "2948-1562"
+    ],
     "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
     "reference_count": 122,
     "journal_link": "https://link.springer.com/10.1007/s44289-024-00038-1",
@@ -36,8 +44,16 @@
     "volume": "16",
     "issue": "7",
     "publisher": "MDPI AG",
-    "published_online": [[2024, 3, 29]],
-    "issn": ["2071-1050"],
+    "published_online": [
+      [
+        2024,
+        3,
+        29
+      ]
+    ],
+    "issn": [
+      "2071-1050"
+    ],
     "license": "https://creativecommons.org/licenses/by/4.0",
     "reference_count": 122,
     "journal_link": "https://www.mdpi.com/2071-1050/16/7/2848",
@@ -57,25 +73,1607 @@
   },
   {
     "doi": "10.1038/s44183-024-00065-7",
-    "title": "A traits-based approach to assess aquaculture's contributions to food, climate change, and biodiversity goals",
-    "abstract": "Aquaculture has the potential to support a sustainable and equitable food system in line with the United Nations Sustainable Development Goals (SDG) on food security, climate change, and biodiversity (FCB). Biological diversity amongst aquaculture organisms can drive diverse contributions to such goals. Existing studies have assessed the performance of a limited number of taxa in the general context of improving aquaculture production, but few explicitly consider the biological attributes of farmed aquatic taxa at the FCB nexus. Through a systematic literature review, we identify key traits associated with FCB and evaluate the potential of aquaculture to contribute to FCB goals using a fuzzy logic model. The majority of identified traits are associated with food security, and two-thirds of traits linked with food security are also associated with climate change or biodiversity, revealing potential co-benefits of optimizing a single trait. Correlations between FCB indices further suggest that challenges and opportunities in aquaculture are intertwined across FCB goals, but low mean FCB scores suggest that the focus of aquaculture research and development on food production is insufficient to address food security, much less climate or biodiversity issues. As expected, production-maximizing traits (absolute fecundity, the von Bertalanffy growth function coefficient K, macronutrient density, maximum size, and trophic level as a proxy for feed efficiency) highly influence a species' FCB potential, but so do species preferences for environmental conditions (tolerance to phosphates, nitrates, and pH levels, as well as latitudinal and geographic ranges). Many highly farmed species that are typically associated with food security, especially finfish, score poorly for food, climate, and biodiversity potential. Algae and mollusc species tend to perform well across FCB indices, revealing the importance of non-fish species in achieving FCB goals and potential synergies in integrated multi-trophic aquaculture systems. Overall, this study provides decision-makers with a biologically informed assessment of desirable aquaculture traits and species while illuminating possible strategies to increase support for FCB goals. Our findings can be used as a foundation for studying the socio-economic opportunities and barriers for aquaculture transitions to develop equitable pathways toward FCB-positive aquaculture across nuanced regional contexts.",
+    "title": "A traits-based approach to assess aquaculture\u2019s contributions to food, climate change, and biodiversity goals",
+    "abstract": "Aquaculture has the potential to support a sustainable and equitable food system in line with the United Nations Sustainable Development Goals (SDG) on food security, climate change, and biodiversity (FCB). Biological diversity amongst aquaculture organisms can drive diverse contributions to such goals. Existing studies have assessed the performance of a limited number of taxa in the general context of improving aquaculture production, but few explicitly consider the biological attributes of farmed aquatic taxa at the FCB nexus. Through a systematic literature review, we identify key traits associated with FCB and evaluate the potential of aquaculture to contribute to FCB goals using a fuzzy logic model. The majority of identified traits are associated with food security, and two-thirds of traits linked with food security are also associated with climate change or biodiversity, revealing potential co-benefits of optimizing a single trait. Correlations between FCB indices further suggest that challenges and opportunities in aquaculture are intertwined across FCB goals, but low mean FCB scores suggest that the focus of aquaculture research and development on food production is insufficient to address food security, much less climate or biodiversity issues. As expected, production-maximizing traits (absolute fecundity, the von Bertalanffy growth function coefficient K, macronutrient density, maximum size, and trophic level as a proxy for feed efficiency) highly influence a species\u2019 FCB potential, but so do species preferences for environmental conditions (tolerance to phosphates, nitrates, and pH levels, as well as latitudinal and geographic ranges). Many highly farmed species that are typically associated with food security, especially finfish, score poorly for food, climate, and biodiversity potential. Algae and mollusc species tend to perform well across FCB indices, revealing the importance of non-fish species in achieving FCB goals and potential synergies in integrated multi-trophic aquaculture systems. Overall, this study provides decision-makers with a biologically informed assessment of desirable aquaculture traits and species while illuminating possible strategies to increase support for FCB goals. Our findings can be used as a foundation for studying the socio-economic opportunities and barriers for aquaculture transitions to develop equitable pathways toward FCB-positive aquaculture across nuanced regional contexts.",
     "authors": "Aleah Wong, Andrea Y. Frommel, U. Rashid Sumaila, William W. L. Cheung",
     "journal": "npj Ocean Sustainability",
     "short_journal": "npj Ocean Sustain",
     "volume": "3",
     "issue": "1",
     "publisher": "Springer Science and Business Media LLC",
-    "published_online": [[2024, 5, 31]],
-    "issn": ["2731-426X"],
+    "published_online": [
+      [
+        2024,
+        5,
+        31
+      ]
+    ],
+    "issn": [
+      "2731-426X"
+    ],
     "license": "https://creativecommons.org/licenses/by/4.0",
     "is_referenced_by_count": 2,
     "reference_count": 110,
     "journal_link": "https://www.nature.com/articles/s44183-024-00065-7",
     "type": "journal-article",
     "score": 1,
-    "keywords": ["Aquaculture", "trait-based approach", "sustainable food systems", "biodiversity", "climate change"],
-    "citation": "<strong>Wong, Aleah</strong>; Frommel, Andrea Y.; Sumaila, U. Rashid; <strong>Cheung, William</strong> W. L. (2024). A traits-based approach to assess aquaculture's contributions to food, climate change, and biodiversity goals. <i>npj Ocean Sustainability</i>. https://doi.org/10.1038/s44183-024-00065-7",
+    "keywords": [
+      "Aquaculture",
+      "trait-based approach",
+      "sustainable food systems",
+      "biodiversity",
+      "climate change"
+    ],
+    "citation": "<strong>Wong, Aleah</strong>; Frommel, Andrea Y.; Sumaila, U. Rashid; <strong>Cheung, William</strong> W. L. (2024). A traits-based approach to assess aquaculture\u2019s contributions to food, climate change, and biodiversity goals. <i>npj Ocean Sustainability</i>. https://doi.org/10.1038/s44183-024-00065-7",
     "citation_count": 2,
+    "citations": [
+      {
+        "title": "Advancing sustainable aquaculture: Integrating offshore and coastal practices for maritime sustainability",
+        "authors": [
+          "S. Suhartini",
+          "Larsen Barasa"
+        ],
+        "venue": "JPBI (Jurnal Pendidikan Biologi Indonesia)",
+        "year": 2025,
+        "url": "https://doi.org/10.22219/jpbi.v11i1.39482",
+        "doi": "10.22219/jpbi.v11i1.39482"
+      },
+      {
+        "title": "Dise\u00f1o de una boya multiparam\u00e9trica aut\u00f3noma con energ\u00eda fotovoltaica y comunicaci\u00f3n remota basada en IoT para entornos de acuicultura",
+        "authors": [
+          "Daniel L\u00e9vano-Rodriguez",
+          "Jhon Harol Gonzales-Garay",
+          "Matias L\u00e9vano-Casildo",
+          "J. L. L\u00f3pez-Gonzales"
+        ],
+        "venue": "Revista Cient\u00edfica de Sistemas e Inform\u00e1tica",
+        "year": 2025,
+        "url": "https://doi.org/10.51252/rcsi.v5i1.866",
+        "doi": "10.51252/rcsi.v5i1.866"
+      },
+      {
+        "title": "Bioactive peptides from salmon aquaculture processing by-product affect growth performance, plasma biochemistry, gut health, and stress resistance of gilthead seabream (Sparus aurata)",
+        "authors": [
+          "E. Benini",
+          "Eliana Musmeci",
+          "S. Busti",
+          "Elena Biagi",
+          "S. Ciulli",
+          "E. Volpe",
+          "F. Errani",
+          "\u00c5. Oterhals",
+          "O. Romarheim",
+          "T. Aspevik",
+          "F. Dondi",
+          "Giulio Zanaroli",
+          "P. Gatta",
+          "A. Bonaldo",
+          "L. Parma"
+        ],
+        "venue": "Aquaculture Reports",
+        "year": 2025,
+        "url": "https://doi.org/10.1016/j.aqrep.2025.102740",
+        "doi": "10.1016/j.aqrep.2025.102740"
+      }
+    ],
     "date": "2024-05-31"
+  },
+  {
+    "doi": "10.1093/icesjms/fsae062",
+    "title": "Historical climate drivers and species\u2019 ecological niche in the Beaufort Sea food web",
+    "abstract": "Climate change impacts have been particularly acute and rapid in the Arctic, raising concerns about the conservation of key ecologically and culturally significant species (e.g. beluga whales, Arctic cod), with consequences for the Indigenous community groups in the region. Here, we build on an Ecopath with Ecosim model for the Canadian Beaufort Sea Shelf and Slope to examine historical (1970\u20132021) changes in the ecological dynamics of the food web and key species under climate change. We compare the individual and cumulative effects of (i) increased sea surface temperature; (ii) reduced sea ice extent; (iii) ocean deoxygenation; and (iv) changing ocean salinity in the ecosystem models. We found that including salinity time series in our ecosystem models reduced the diversity found within the ecosystem, and altered the trophic levels, biomass, and consumption rates of some marine mammal and fish functional groups, including the key species: beluga whales, as well as Arctic and polar cods. Inclusion of the dissolved oxygen time series showed no difference to ecosystem indicators. The model findings reveal valuable insights into the attribution of temperature and salinity on Arctic ecosystems and highlight important factors to be considered to ensure that existing conservation measures can support climate adaptation.",
+    "authors": "Kristen J Sora, Colette C C Wabnitz, Nadja S Steiner, U Rashid Sumaila, Carie Hoover, Andrea Niemi, Lisa L Loseto, Mi-Ling Li, Amanda Giang, Emma Gillies, William W L Cheung",
+    "journal": "ICES Journal of Marine Science",
+    "volume": "82",
+    "issue": "1",
+    "publisher": "Oxford University Press (OUP)",
+    "published_online": [
+      [
+        2024,
+        5,
+        14
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        1,
+        22
+      ]
+    ],
+    "issn": [
+      "1054-3139",
+      "1095-9289"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "is_referenced_by_count": 4,
+    "reference_count": 123,
+    "journal_link": "https://academic.oup.com/icesjms/article/doi/10.1093/icesjms/fsae062/7671260",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "Arctic",
+      "climate change impacts",
+      "ecosystem modeling",
+      "environmental niche",
+      "multistressors",
+      "marine protected areas (MPAs)"
+    ],
+    "citation": "Sora, Kristen J; <strong>Wabnitz, Colette</strong> C C; <strong>Steiner, Nadja</strong> S; <strong>Sumaila, U Rashid</strong>; Hoover, Carie; Niemi, Andrea; Loseto, Lisa L; Li, Mi-Ling; Giang, Amanda; Gillies, Emma; <strong>Cheung, William W L</strong> (2024). Historical climate drivers and species\u2019 ecological niche in the Beaufort Sea food web. <i>ICES Journal of Marine Science</i>. https://doi.org/10.1093/icesjms/fsae062",
+    "citation_count": 4,
+    "citations": [
+      {
+        "title": "Making ocean climate effects studies matter to society",
+        "authors": [
+          "Geir Huse",
+          "Sonia Batten",
+          "J\u00f6rn Schmidt",
+          "Kirsten Isensee",
+          "Tarub Bahri",
+          "M. Skern-Mauritzen",
+          "Sanae Chiba",
+          "Peter Haugan"
+        ],
+        "venue": "ICES Journal of Marine Science",
+        "year": 2025,
+        "url": "https://doi.org/10.1093/icesjms/fsae200",
+        "doi": "10.1093/icesjms/fsae200"
+      },
+      {
+        "title": "Stable isotopes of carbon (\u03b413C) and oxygen (\u03b418O) from vaquita (Phocoena sinus) bones as indicators of habitat use in the Upper Gulf of California",
+        "authors": [
+          "M\u00f3nica Y. Rodr\u00edguez-P\u00e9rez",
+          "L. S\u00e1nchez\u2010Velasco",
+          "M. Rosas\u2010Hernandez",
+          "C. Hern\u00e1ndez-Camacho",
+          "Fernando A. Cervantes",
+          "J. Gallo\u2010Reynoso",
+          "F. Arregu\u00edn-S\u00e1nchez",
+          "V. God\u00ednez"
+        ],
+        "venue": "Frontiers in Conservation Science",
+        "year": 2024,
+        "url": "https://doi.org/10.3389/fcosc.2024.1490262",
+        "doi": "10.3389/fcosc.2024.1490262"
+      },
+      {
+        "title": "Borealization impacts shelf ecosystems across the Arctic",
+        "authors": [
+          "B. Husson",
+          "B. Bluhm",
+          "Fr\u00e9d\u00e9ric Cyr",
+          "Seth L. Danielson",
+          "Elena Eriksen",
+          "M. Fossheim",
+          "Maxime Geoffroy",
+          "R. Hopcroft",
+          "R. Ingvaldsen",
+          "L. J\u00f8rgensen",
+          "Connie Lovejoy",
+          "L. Meire",
+          "F. Mueter",
+          "R. Primicerio",
+          "Mie Winding"
+        ],
+        "venue": "Frontiers in Environmental Science",
+        "year": 2024,
+        "url": "https://doi.org/10.3389/fenvs.2024.1481420",
+        "doi": "10.3389/fenvs.2024.1481420"
+      },
+      {
+        "title": "Exploring Drivers of Historic Mercury Trends in Beluga Whales Using an Ecosystem Modeling Approach",
+        "authors": [
+          "Emma Gillies",
+          "Miling Li",
+          "Villy Christensen",
+          "Carie Hoover",
+          "Kristen J Sora",
+          "L. Loseto",
+          "William W. L. Cheung",
+          "H\u00e9l\u00e8ne Angot",
+          "A. Giang"
+        ],
+        "venue": "ACS Environmental Au",
+        "year": 2024,
+        "url": "https://doi.org/10.1021/acsenvironau.3c00072",
+        "doi": "10.1021/acsenvironau.3c00072"
+      }
+    ],
+    "date": "2025-01-22"
+  },
+  {
+    "doi": "10.1038/s44168-023-00088-9",
+    "title": "The new UN high seas marine biodiversity Agreement may also facilitate climate action: a cautiously optimistic view",
+    "abstract": "Recently adopted UN high seas Agreement elaborates an overarching legal framework for the conservation and sustainable use of marine biodiversity of the areas beyond national jurisdiction. A remarkable advancement of this Agreement is a clear recognition of the need to address the impacts of climate change on marine ecosystems and biodiversity. This comment presents a cautiously optimistic view that the new legal instrument may pave the foundation for global and regional climate action for protecting marine biodiversity in a changing climate. Climate action can be integrated into area-based measures for the conservation of marine ecosystems, including the establishment of high seas marine protected areas. The Agreement also created a legal obligation to consider climate change in the process of environmental impact assessment of activities on the high seas. Therefore, this Agreement is a unique addition and reform to the international law of the sea. However, the success of the Agreement will largely depend on the widespread ratification of states and effective implementation at the regional level.",
+    "authors": "Md Saiful Karim, William W. L. Cheung",
+    "journal": "npj Climate Action",
+    "short_journal": "npj Clim. Action",
+    "volume": "3",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2024,
+        1,
+        25
+      ]
+    ],
+    "issn": [
+      "2731-9814"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0",
+    "is_referenced_by_count": 4,
+    "reference_count": 13,
+    "journal_link": "https://www.nature.com/articles/s44168-023-00088-9",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "High seas",
+      "marine biodiversity",
+      "climate action",
+      "international law",
+      "environmental impact assessment"
+    ],
+    "citation": "Karim, Md Saiful; <strong>Cheung, William</strong> W. L. (2024). The new UN high seas marine biodiversity Agreement may also facilitate climate action: a cautiously optimistic view. <i>npj Climate Action</i>. https://doi.org/10.1038/s44168-023-00088-9",
+    "citation_count": 4,
+    "citations": [
+      {
+        "title": "On the provisions of the BBNJ Agreement addressing the impacts of climate change",
+        "authors": [
+          "Chuanliang Wang",
+          "Min Wu"
+        ],
+        "venue": "Marine Policy",
+        "year": 2025,
+        "url": "https://doi.org/10.1016/j.marpol.2024.106429",
+        "doi": "10.1016/j.marpol.2024.106429"
+      },
+      {
+        "title": "Historical fishing regimes uncover deep-sea productivity hotspots in the SW Atlantic Ocean",
+        "authors": [
+          "J. A. A. Perez",
+          "Lucas Gavazzoni",
+          "Rodrigo Sant\u2019Ana"
+        ],
+        "venue": "Frontiers in Marine Science",
+        "year": 2024,
+        "url": "https://doi.org/10.3389/fmars.2024.1477960",
+        "doi": "10.3389/fmars.2024.1477960"
+      },
+      {
+        "title": "To save the high seas, plan for climate change.",
+        "authors": [
+          "Lee Hannah",
+          "Amy Irvine",
+          "Isaac Brito-Morales",
+          "Susanna Fuller",
+          "Tammy E. Davies",
+          "D. Tittensor",
+          "Grace Reville",
+          "Nancy Shackell",
+          "Janos Hennicke",
+          "R.R.E. Stanley"
+        ],
+        "venue": "Nature",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/d41586-024-01720-2",
+        "doi": "10.1038/d41586-024-01720-2"
+      }
+    ],
+    "date": "2024-01-25"
+  },
+  {
+    "doi": "10.1139/facets-2022-0245",
+    "title": "Potential impacts of reduced seafood consumption on myocardial infarction among coastal First Nations in British Columbia, Canada",
+    "abstract": "The objective of this study is to examine the potential cardiovascular risk of climate-related declines in seafood consumption among First Nations in British Columbia by assessing the combined effects of reduced omega-3 fatty acids and mercury intake from seafood on the risk of myocardial infarction (MI) in 2050 relative to 2009. The data were derived from the First Nations Food, Nutrition, and Environment Study. Seafood consumption among 369 randomly selected participants was estimated, and hair mercury concentrations were measured. Declines in seafood consumption were modelled based on previously projected climate change scenarios, and the associated changes in nutrients and contaminants were used to estimate the cardiovascular risk. Reduced seafood consumption was projected to increase the risk of MI by 4.5%\u20136.5% among older individuals (\u226550 years), by 1.9%\u20132.6% in men, and by 1.3%\u20131.8% in women under lower and upper climate change scenarios, respectively. Reduced seafood consumption may have profound cardiovascular implications. Effective strategies are needed to promote sustainable seafood harvests and access to seafood for coastal First Nations. ",
+    "authors": "Lesya Marushka, Xue Feng Hu, Tiff-Annie Kenny, Malek Batal, Karen Fediuk, Tonio Sadik, Christopher D. Golden, William W. L. Cheung, Anne K. Salomon, Hing Man Chan",
+    "journal": "FACETS",
+    "short_journal": "FACETS",
+    "volume": "9",
+    "page": "1-13",
+    "publisher": "Canadian Science Publishing",
+    "published_print": [
+      [
+        2024,
+        1,
+        1
+      ]
+    ],
+    "issn": [
+      "2371-1671"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.en_GB",
+    "is_referenced_by_count": 1,
+    "reference_count": 60,
+    "journal_link": "https://facetsjournal.com/doi/10.1139/facets-2022-0245",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "Seafood consumption",
+      "cardiovascular health",
+      "climate change",
+      "dietary patterns",
+      "public health"
+    ],
+    "citation": "Marushka, Lesya; Hu, Xue Feng; Kenny, Tiff-Annie; Batal, Malek; <strong>Fediuk, Karen</strong>; Sadik, Tonio; Golden, Christopher D.; <strong>Cheung, William</strong> W. L.; Salomon, Anne K.; Chan, Hing Man (2024). Potential impacts of reduced seafood consumption on myocardial infarction among coastal First Nations in British Columbia, Canada. <i>FACETS</i>. https://doi.org/10.1139/facets-2022-0245",
+    "citation_count": 1,
+    "date": "2024-01-01"
+  },
+  {
+    "doi": "10.22541/essoar.170594183.33534487/v1",
+    "title": "Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0",
+    "abstract": "There is an urgent need for models that can robustly detect past and\nproject future ecosystem changes and risks to the services that they\nprovide to people. The Fisheries and Marine Ecosystem Model\nIntercomparison Project (FishMIP) was established to develop model\nensembles for projecting long-term impacts of climate change on\nfisheries and marine ecosystems while informing policy at\nspatio-temporal scales relevant to the Inter-Sectoral Impact Model\nIntercomparison Project (ISIMIP) framework. While contributing FishMIP\nmodels have improved over time, large uncertainties in projections\nremain, particularly in coastal and shelf seas where most of the world\u2019s\nfisheries occur. Furthermore, previous FishMIP climate impact\nprojections have mostly ignored fishing activity due to a lack of\nstandardized historical and scenario-based human activity forcing and\nuneven capabilities to dynamically model fisheries across the FishMIP\ncommunity. This, in addition to underrepresentation of coastal\nprocesses, has limited the ability to evaluate the FishMIP ensemble\u2019s\nability to adequately capture past states - a crucial step for building\nconfidence in future projections. To address these issues, we have\ndeveloped two parallel simulation experiments (FishMIP 2.0) on: 1) model\nevaluation and detection of past changes and 2) future scenarios and\nprojections. Key advances include historical climate forcing, that\ncaptures oceanographic features not previously resolved, and\nstandardized fishing forcing to systematically test fishing effects\nacross models. FishMIP 2.0 is a key step towards a detection and\nattribution framework for marine ecosystem change at regional and global\nscales, and towards enhanced policy relevance through increased\nconfidence in future ensemble projections.",
+    "authors": "Julia L. Blanchard, Camilla Novaglio, Olivier Maury, Cheryl Shannon Harrison, Colleen M Petrik, L. Denisse Fierro Arcos, Kelly Ortega-Cisneros, Andrea Bryndum-Buchholz, Tyler Eddy, Ryan Heneghan, Kelsey E Roberts, Jacob Schewe, Daniele Bianchi, Jerome Guiet, Daniel van Denderen, Juliano Palacios-Abrantes, Xiao Liu, Charles A. A Stock, Yannick Rousseau, Matthias B\u00fcchner, Ezekiel Adekoya, William Cheung, Villy Christensen, Marta Coll, Leonardo Capitani, Samik Datta, Beth Fulton, Alba Fuster, Victoria Garza, Matthieu Lengaigne, Max lindmark, Kieran Murphy, Jazel Ouled-Cheikh, Sowdamini P. Prasad, Ricardo Oliveros-Ramos, Jonathan Charles Reum, Nina Rynne, Kim Scherrer, Yunne-Jai Shin, Jeroen Gerhard Steenbeek, Phoebe Woodworth-Jefcoats, Yan-Lun Wu, Derek Tittensor",
+    "publisher": "Authorea, Inc.",
+    "is_referenced_by_count": 6,
+    "journal_link": "https://essopenarchive.org/users/349984/articles/701972-detecting-attributing-and-projecting-global-marine-ecosystem-and-fisheries-change-fishmip-2-0?commit=d116e5ee4afd983994384f40ab075d8ea12816fb",
+    "type": "posted-content",
+    "score": 1,
+    "keywords": [
+      "FishMIP 2.0",
+      "Marine ecosystems",
+      "Climate change",
+      "Fisheries modeling",
+      "Ecosystem projections",
+      "Detection and attribution",
+      "Fishing effort scenarios",
+      "Ocean System Pathways (OSPs)",
+      "Integrated assessment",
+      "Ecosystem services",
+      "Socioeconomic drivers",
+      "Sustainable development goals (SDGs)"
+    ],
+    "citation": "Blanchard, J. L., Novaglio, C., Maury, O., Harrison, C. S., Petrik, C. M., Arcos, L. D. F., Ortega-Cisneros, K., Bryndum-Buchholz, A., Eddy, T., Heneghan, R., Roberts, K. E., Schewe, J., Bianchi, D., Guiet, J., Denderen, D. van, Palacios-Abrantes, J., Liu, X., Stock, C. A. A., Rousseau, Y., \u2026 Tittensor, D. (2024). Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. Authorea, Inc. https://doi.org/10.22541/essoar.170594183.33534487/v1",
+    "citation_count": 6,
+    "date": "2024-01-22"
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2023.168699",
+    "title": "Comparative analysis of climate-induced changes in distribution of representative fish species in the Yellow Sea",
+    "abstract": "Climate changes are posing remarkable impacts on marine fish and fisheries. Although many studies have addressed the distributional effects of climate change on single fish species or taxa in recent years, comparative studies focusing on different types of fish are still lacking. In this study, we applied dynamic bioclimate envelop models (DBEM), based on three earth system models, to predict sea surface and bottom temperature, as well as the spatial and temporal distribution of nine representative fishes in the Yellow Sea, contain two habitats, i.e., continental shelf benthopelagic (CBD) and continental shelf pelagic-neritic (CPN) fishes, and two thermophilies, i.e., warm temperate (WT) and warm water (WW) fishes. Under a low emissions scenario (RCP 2.6) and a high emissions scenario (RCP 8.5) between 1970 and 2060, results reveal that: a) CPN fishes show a distinct tendency to move to higher latitudes than CBD fishes, and WW fishes show a significant tendency to migrate more widely to the north than WT fishes; b) The relative abundance of CPN fishes is expected to be higher than that of CBD fishes, while there is no apparent difference in relative abundance between WW fishes and WT fishes. The main reasons for this difference are presumed to be: variance of temperature rise between the sea surface and bottom layers, divergent adaptations of the species, and disparate degrees of anthropogenic influence.",
+    "authors": "Yugui Zhu, Xiaoyue Cui, Bin Kang, Chunlong Liu, Gabriel Reygondeau, Yunfeng Wang, William W.L. Cheung, Jiansong Chu",
+    "journal": "Science of The Total Environment",
+    "short_journal": "Science of The Total Environment",
+    "volume": "912",
+    "page": "168699",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2024,
+        2
+      ]
+    ],
+    "issn": [
+      "0048-9697"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "is_referenced_by_count": 2,
+    "reference_count": 66,
+    "journal_link": "https://linkinghub.elsevier.com/retrieve/pii/S0048969723073278",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "Climate change",
+      "Fish distribution shifts",
+      "Yellow Sea",
+      "Dynamic Bioclimate Envelope Model (DBEM)",
+      "Continental shelf fish",
+      "Thermophilic species",
+      "Habitat change",
+      "Species migration",
+      "Relative abundance",
+      "RCP scenarios",
+      "Pelagic vs benthopelagic",
+      "Marine ecosystem modeling"
+    ],
+    "citation": "Zhu, Yugui; Cui, Xiaoyue; Kang, Bin; Liu, Chunlong; Reygondeau, Gabriel; Wang, Yunfeng; <strong>Cheung, William</strong> W.L.; Chu, Jiansong (2024). Comparative analysis of climate-induced changes in distribution of representative fish species in the Yellow Sea. <i>Science of The Total Environment</i>. https://doi.org/10.1016/j.scitotenv.2023.168699",
+    "citation_count": 2,
+    "citations": [
+      {
+        "title": "Spatial and temporal distribution patterns and conservation status of seagrasses in the Yellow Sea and Bohai Sea.",
+        "authors": [
+          "Ming Wang",
+          "Weimin Wang",
+          "Yanmei Ding",
+          "Shuai Yang",
+          "Honghua Shi"
+        ],
+        "venue": "Science of the Total Environment",
+        "year": 2025,
+        "url": "https://doi.org/10.1016/j.scitotenv.2025.178601",
+        "doi": "10.1016/j.scitotenv.2025.178601"
+      },
+      {
+        "title": "Comparative analysis of climate-induced habitat shift of economically significant species with diverse ecological preferences in the Northwest Pacific",
+        "authors": [
+          "Wanchuan Dong",
+          "Xinlu Bai",
+          "Linlin Zhao",
+          "Hao Dong",
+          "Changdong Liu"
+        ],
+        "venue": "Frontiers in Marine Science",
+        "year": 2024,
+        "url": "https://doi.org/10.3389/fmars.2024.1476097",
+        "doi": "10.3389/fmars.2024.1476097"
+      }
+    ],
+    "date": "2024-02-01"
+  },
+  {
+    "doi": "10.1088/1748-9326/acd398",
+    "title": "Global estimates of suitable areas for marine algae farming",
+    "abstract": "Marine algae, both macro and micro, have gained increasing attention for their numerous ecosystem service functions, such as food and raw materials provision and climate change mitigation. Currently, the practice of large-scale algae farming is limited to Asian waters, but significant interest has arisen from other continents. However, there is a lack of knowledge about the areas with suitable environmental conditions for expanding algae farming on a global scale. Previous studies have primarily focused on nutrient availability and thermal constraints when assessing the potential for algae culture. This study uses species distribution models based on an ensemble consensus approach to determine the extent of suitable areas and takes into account multiple environmental factors that may affect the feasibility of algae culture. Our results show that approximately 20.8 million km2 of the ocean (\u223c13.8% of the economic exclusive zones) is suitable for farming marine algae species, with most potential areas located near the coastline. Surprisingly, four out of the top five countries with the largest area suitable for seaweed farming, including Australia, Russia, Canada, and the US, account for 30% of the total suitable areas, yet they currently produce less than 1% of the global seaweed. Several species show promising characteristics for large-scale cultivation, but their viability for commercial production remains uncertain and subject to further assessment of economic feasibility and social acceptance. Further research on the ecological benefits of seaweed farming could also promote the development of an ecologically friendly and financially viable algae mariculture industry. This study provides a scientific basis for decision-makers to understand potential expansion areas and feasible pathways for seaweed farming, with the ultimate goal of ensuring the sustainable utilization of marine resources.",
+    "authors": "Yue Liu, Ling Cao, William W L Cheung, U Rashid Sumaila",
+    "journal": "Environmental Research Letters",
+    "short_journal": "Environ. Res. Lett.",
+    "volume": "18",
+    "issue": "6",
+    "page": "064028",
+    "publisher": "IOP Publishing",
+    "published_online": [
+      [
+        2023,
+        6,
+        2
+      ]
+    ],
+    "published_print": [
+      [
+        2023,
+        6,
+        1
+      ]
+    ],
+    "issn": [
+      "1748-9326"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "is_referenced_by_count": 15,
+    "reference_count": 103,
+    "journal_link": "https://iopscience.iop.org/article/10.1088/1748-9326/acd398",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "Seaweed",
+      "mariculture",
+      "habitat suitability",
+      "species distribution modeling",
+      "ensemble modeling"
+    ],
+    "citation": "<strong>Liu, Yue</strong>; <strong>Cao, Ling</strong>; <strong>Cheung, William W L</strong>; <strong>Sumaila, U Rashid</strong> (2023). Global estimates of suitable areas for marine algae farming. <i>Environmental Research Letters</i>. https://doi.org/10.1088/1748-9326/acd398",
+    "citation_count": 15,
+    "citations": [
+      {
+        "title": "BROWN SEAWEED (Sargassum ilicifolium) AS A NUTRITIONAL SUPPLEMENT: EFFECTS ON GROWTH AND HEMATOLOGY IN Labeo rohita",
+        "authors": [
+          "Rafia Zulfiqar",
+          "Farkhanda Asad",
+          "Basim S A Al Sulivany",
+          "Saba Naseer",
+          "Irtisha Kanwal",
+          "Aiman Nadeem",
+          "Muhammad Owais"
+        ],
+        "venue": "Science Journal of University of Zakho",
+        "year": 2025,
+        "url": "https://doi.org/10.25271/sjuoz.2025.13.2.1480",
+        "doi": "10.25271/sjuoz.2025.13.2.1480"
+      },
+      {
+        "title": "Global potential for seaweed aquaculture on existing offshore infrastructure",
+        "authors": [
+          "Finnley Ross",
+          "Martino E. Malerba",
+          "Peter I. Macreadie"
+        ],
+        "venue": "Heliyon",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.heliyon.2024.e41248",
+        "doi": "10.1016/j.heliyon.2024.e41248"
+      },
+      {
+        "title": "Predicting the spatial distribution of Turkish hornworts (Anthocerotophyta) under changing climatic conditions",
+        "authors": [
+          "G\u00f6khan Abay",
+          "Serkan G\u00fcl"
+        ],
+        "venue": "Plant Biosystems",
+        "year": 2024,
+        "url": "https://doi.org/10.1080/11263504.2024.2404432",
+        "doi": "10.1080/11263504.2024.2404432"
+      },
+      {
+        "title": "Macroalgal Diseases: Exploring Biology, Pathogenesis, and Management Strategies",
+        "authors": [
+          "D. Spagnuolo",
+          "G. Genovese"
+        ],
+        "venue": "Phycology",
+        "year": 2024,
+        "url": "https://doi.org/10.3390/phycology4030026",
+        "doi": "10.3390/phycology4030026"
+      },
+      {
+        "title": "Exploitation of Waste Algal Biomass in Northern Italy: A Cost\u2013Benefit Analysis",
+        "authors": [
+          "Andrea Baldi",
+          "A. Pronti",
+          "Massimiliano Mazzanti",
+          "L. Pasti"
+        ],
+        "venue": "Pollutants",
+        "year": 2024,
+        "url": "https://doi.org/10.3390/pollutants4030027",
+        "doi": "10.3390/pollutants4030027"
+      },
+      {
+        "title": "A Comparison between the Production of Edible Macroalgae Worldwide and in the Mediterranean Sea",
+        "authors": [
+          "Gorana Jelic\u0301 Mrc\u0313elic\u0301",
+          "Svjetlana Krstulovi\u0107 \u0160ifner",
+          "V. Nerlovi\u0107"
+        ],
+        "venue": "Oceans",
+        "year": 2024,
+        "url": "https://doi.org/10.3390/oceans5030026",
+        "doi": "10.3390/oceans5030026"
+      },
+      {
+        "title": "The potential climate benefits of seaweed farming in temperate waters",
+        "authors": [
+          "Cameron D. Bullen",
+          "John Driscoll",
+          "Jenn Burt",
+          "Tiffany Stephens",
+          "Margot Hessing-Lewis",
+          "E. Gregr"
+        ],
+        "venue": "Scientific Reports",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41598-024-65408-3",
+        "doi": "10.1038/s41598-024-65408-3"
+      },
+      {
+        "title": "A traits-based approach to assess aquaculture\u2019s contributions to food, climate change, and biodiversity goals",
+        "authors": [
+          "Aleah Wong",
+          "A. Y. Frommel",
+          "U. Sumaila",
+          "W. Cheung"
+        ],
+        "venue": "npj Ocean Sustainability",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/e770f13d1cffb7c65444db1da0c8899331c2ee6f"
+      },
+      {
+        "title": "Supply Chain-Based Coral Conservation: The Case of Mozuku Seaweed Farming in Onna Village, Okinawa",
+        "authors": [
+          "Reiko Omoto",
+          "Masato Uehara",
+          "Daigo Seki",
+          "Masaru Kinjo"
+        ],
+        "venue": "Sustainability",
+        "year": 2024,
+        "url": "https://doi.org/10.3390/su16072713",
+        "doi": "10.3390/su16072713"
+      },
+      {
+        "title": "Seaweed: a sustainable solution for greening drug manufacturing in the pursuit of sustainable healthcare",
+        "authors": [
+          "Leonel Pereira",
+          "Jo\u00e3o Cotas"
+        ],
+        "venue": "Exploration of Digital Health Technologies",
+        "year": 2024,
+        "url": "https://doi.org/10.37349/eds.2024.00036",
+        "doi": "10.37349/eds.2024.00036"
+      },
+      {
+        "title": "Seaweed as a Resilient Food Solution After a Nuclear War",
+        "authors": [
+          "Florian Ulrich Jehn",
+          "Farrah Jasmine Dingal",
+          "Aron Mill",
+          "Cheryl S. Harrison",
+          "Ekaterina Ilin",
+          "M. Roleda",
+          "Scott C. James",
+          "David C. Denkenberger"
+        ],
+        "venue": "Earth's Future",
+        "year": 2024,
+        "url": "https://doi.org/10.1029/2023EF003710",
+        "doi": "10.1029/2023EF003710"
+      },
+      {
+        "title": "Global ocean spatial suitability for macroalgae offshore cultivation and sinking",
+        "authors": [
+          "Evangelos Alevizos",
+          "Laurent Barill\u00e9"
+        ],
+        "venue": "Frontiers in Marine Science",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/ce36cd96dac3ccb21779192911f5147860521ae5"
+      },
+      {
+        "title": "Integrating Arid Areas in the Global Bioeconomy: Opportunities and Challenges toward Sustainable Biomass Generation and Management",
+        "authors": [
+          "B. Tardy",
+          "L. Greca",
+          "Karl Mihhels",
+          "E. Lizundia",
+          "L. Dum\u00e9e",
+          "L. Vega"
+        ],
+        "venue": "ACS Sustainable Chemistry &amp; Engineering",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/07a223a8afb80925c7d0d33d37996eab0d7e616d"
+      },
+      {
+        "title": "The impact of different coastal locations on the growth and Land suitability tissue culture on the Lampung Coast, Indonesia",
+        "authors": [
+          "Maya Meiyana",
+          "Banon Rustiaty",
+          "Arief Rahman Rivaie",
+          "H. Minjoyo",
+          "Handoko",
+          "Silfester Basi Dhoe",
+          "Suryadi Saputra"
+        ],
+        "venue": "BIO Web of Conferences",
+        "year": 2024,
+        "url": "https://doi.org/10.1051/bioconf/202414701015",
+        "doi": "10.1051/bioconf/202414701015"
+      },
+      {
+        "title": "Regional Seaweed Services Model Technical",
+        "authors": [
+          "E. Gregr",
+          "Cam Bullen"
+        ],
+        "venue": "",
+        "year": null,
+        "url": "https://www.semanticscholar.org/paper/420fb8aa1d976d364383497c07c16aefdb15a95d"
+      }
+    ],
+    "date": "2023-06-01"
+  },
+  {
+    "doi": "10.1038/s44183-024-00042-0",
+    "title": "WTO must complete an ambitious fisheries subsidies agreement",
+    "abstract": "In June 2022, the World Trade Organization (WTO) reached a landmark agreement on fisheries subsidies, a move strongly supported by the global scientific community. This agreement introduces the first binding global rules requiring governments to assess the legality and sustainability of subsidized fishing activities. Harmful subsidies are a key driver of overfishing, which threatens ocean biodiversity, increases CO\u2082 emissions, and jeopardizes coastal livelihoods and food security. Trade ministers also committed to ongoing negotiations to address unresolved issues, including reducing subsidies that contribute to overcapacity and unfair exploitation. Eliminating harmful subsidies will support the recovery of fish populations, leading to more sustainable catches, improved fisher incomes, and lower carbon emissions. With a ministerial meeting scheduled for February 2024, WTO members have a critical opportunity to adopt stronger regulations that reflect a global commitment to sustainability and equitable trade. We, a coalition of scientists from all inhabited continents, call on the WTO to finalize an ambitious second round of negotiations that prioritizes both environmental and social equity.",
+    "authors": "U. Rashid Sumaila, Lubna Alam, Patrizia R. Abdallah, Denis Aheto, Shehu L. Akintola, Justin Alger, Vania Andreoli, Megan Bailey, Colin Barnes, Abdulrahman Ben-Hasan, Cassandra M. Brooks, Adriana R. Carvalho, William W. L. Cheung, Andr\u00e9s M. Cisneros-Montemayor, Jessica Dempsey, Sharina A. Halim, Nathalie Hilmi, Matthew O. Ilori, Jennifer Jacquet, Selma T. Karuaihe, Philippe Le Billon, James Leape, Tara G. Martin, Jessica J. Meeuwig, Fiorenza Micheli, Mazlin Mokhtar, Rosamond L. Naylor, David Obura, Maria L. D. Palomares, Laura M. Pereira, Abbie A. Rogers, Ana M. M. Sequeira, Temitope O. Sogbanmu, Sebastian Villasante, Dirk Zeller, Daniel Pauly",
+    "journal": "npj Ocean Sustainability",
+    "short_journal": "npj Ocean Sustain",
+    "volume": "3",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2024,
+        2,
+        2
+      ]
+    ],
+    "issn": [
+      "2731-426X"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0",
+    "is_referenced_by_count": 1,
+    "reference_count": 18,
+    "journal_link": "https://www.nature.com/articles/s44183-024-00042-0",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "WTO",
+      "fisheries subsidies",
+      "overfishing",
+      "illegal fishing",
+      "sustainable fisheries",
+      "marine biodiversity",
+      "carbon emissions",
+      "food security",
+      "developing countries",
+      "distant water fishing",
+      "subsidy reform",
+      "ocean sustainability"
+    ],
+    "citation": "<strong>Sumaila, U. Rashid</strong>; Alam, Lubna; Abdallah, Patrizia R.; <strong>Aheto, Denis</strong>; <strong>Akintola, Shehu</strong> L.; Alger, Justin; Andreoli, Vania; Bailey, Megan; Barnes, Colin; Ben-Hasan, Abdulrahman; Brooks, Cassandra M.; Carvalho, Adriana R.; <strong>Cheung, William W. L.</strong>; Cisneros-Montemayor, Andres M.; Dempsey, Jessica; Halim, Sharina A.; Hilmi, Nathalie; <strong>Ilori, Matthew O.</strong>; Jacquet, Jennifer; Karuaihe, Selma T.; Le Billon, Philippe; Leape, James; <strong>Martin, Tara</strong> G.; Meeuwig, Jessica J.; Micheli, Fiorenza; Mokhtar, Mazlin; Naylor, Rosamond L.; Obura, David; Palomares, Maria L. D.; <strong>Pereira, Laura</strong> M.; Rogers, Abbie A.; Sequeira, Ana M. M.; <strong>Sogbanmu, Temitope</strong> O.; Villasante, Sebastian; Zeller, Dirk; Pauly, Daniel (2024). WTO must complete an ambitious fisheries subsidies agreement. <i>npj Ocean Sustainability</i>. https://doi.org/10.1038/s44183-024-00042-0",
+    "citation_count": 1,
+    "citations": [
+      {
+        "title": "The costs of subsidies and externalities of economic activities driving nature decline.",
+        "authors": [
+          "Victoria Reyes\u2010Garc\u00eda",
+          "Sebastian Villasante",
+          "K. Benessaiah",
+          "Ram Pandit",
+          "Arun Agrawal",
+          "Joachim Claudet",
+          "Lucas A. Garibaldi",
+          "M. Kabisa",
+          "Laura Pereira",
+          "Yves Zinngrebe"
+        ],
+        "venue": "Ambio",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/1d274279f4d5b0d63166202db1e1c42430fd7df7"
+      },
+      {
+        "title": "Hope or Despair Revisited: Assessing Progress and New Challenges in Global Fisheries",
+        "authors": [
+          "William W. L. Cheung",
+          "Daniel Pauly",
+          "U. Sumaila"
+        ],
+        "venue": "Fish and Fisheries",
+        "year": 2024,
+        "url": "https://doi.org/10.1111/faf.12877",
+        "doi": "10.1111/faf.12877"
+      },
+      {
+        "title": "Carbon sink efficiency of Chinese mollusk mariculture",
+        "authors": [
+          "Lance Yu",
+          "Jianfeng Zhu",
+          "Xiaomu Guan",
+          "Lu Zhai",
+          "Zhuming Zhao",
+          "Yongtong Mu",
+          "Tao Liu"
+        ],
+        "venue": "Aquaculture",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.aquaculture.2024.741781",
+        "doi": "10.1016/j.aquaculture.2024.741781"
+      },
+      {
+        "title": "Synergies between price and life history enhance extinction risk in open\u2010access fisheries",
+        "authors": [
+          "L. M. Feitosa",
+          "M. Burgess",
+          "Christopher M. Free",
+          "Steven D Gaines"
+        ],
+        "venue": "Fish and Fisheries",
+        "year": 2024,
+        "url": "https://doi.org/10.1111/faf.12858",
+        "doi": "10.1111/faf.12858"
+      },
+      {
+        "title": "Indigenous self-determination in fisheries governance: implications from New Zealand and Atlantic Canada",
+        "authors": [
+          "H. Bodwitch",
+          "Kayla M. Hamelin",
+          "Kenneth Paul",
+          "John Reid",
+          "Megan Bailey"
+        ],
+        "venue": "Frontiers in Marine Science",
+        "year": 2024,
+        "url": "https://doi.org/10.3389/fmars.2024.1297975",
+        "doi": "10.3389/fmars.2024.1297975"
+      }
+    ],
+    "date": "2024-02-02"
+  },
+  {
+    "doi": "10.1016/j.ecolind.2024.112872",
+    "title": "The spatiotemporal changes in fish and invertebrate community structure and habitat viability in the Yangtze Estuary",
+    "authors": "Zhaomin Chen, Daniel Pauly, Tayler M. Clarke, Cui Liang, Weiwei Xian, William W.L. Cheung",
+    "journal": "Ecological Indicators",
+    "short_journal": "Ecological Indicators",
+    "volume": "169",
+    "page": "112872",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2024,
+        12
+      ]
+    ],
+    "issn": [
+      "1470-160X"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "reference_count": 91,
+    "journal_link": "https://doi.org/10.1016/j.ecolind.2024.112872",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Zhaomin Chen, Daniel Pauly, Tayler M. Clarke, Cui Liang, Weiwei Xian, <strong>William W.L. Cheung</strong> (2024). The spatiotemporal changes in fish and invertebrate community structure and habitat viability in the Yangtze Estuary. <i>Ecological Indicators</i>. https://doi.org/10.1016/j.ecolind.2024.112872",
+    "abstract": "MODC reflects the overall average oxygen demand level of the community. AGIC, the ratio of habitat oxygen supply to community average demand, reflects habitat viability. Seasonal differences in the Yangtze Estuary\u2019s environment and community structure are significant, without notable interannual changes. The habitat viability in the southern region of the Yangtze Estuary is lower than in the northern region. Hypoxia-driven massive outbreaks ofHarpadon nehereusand jellyfish occurred.AbstractTemperature and oxygen are fundamental environmental factors shaping community structure and are major climatic stressors for marine species globally, interacting with physiological traits of species to establish marine habitats. Periodic seasonal fluctuations in temperature and oxygen significantly influence the composition of community structures and biogeographic habitat viability. This study utilized two community-based indices, the Aerobic Growth Index of the Community (AGIC) and the Mean Oxygen Demand of the Community (MODC), to understand the roles of temperature and oxygen in shaping the community structure of benthic fish and invertebrates during the spring and autumn in the Yangtze Estuary and quantified habitat viability across different seasonal and spatial regions. We observed pronounced seasonal differences in the environmental and community structures of the Yangtze Estuary, though variations in habitat viability across seasons were minimal. Autumn communities demonstrated lower vulnerability and higher resilience to hypoxia. Despite this, from 2004 to 2022, the annual fluctuations in temperature, oxygen levels, and habitat viability were minimal, maintaining high levels overall, except in the spring of 2004. Additionally, influenced by the Taiwan Warm Current, the southern region of the Yangtze Estuary exhibited lower habitat viability compared to the northern region. Although AGIC and MODC, as two new ecological indicators, are limited by some uncertainties, it can still provide guidance for future conservation of estuarine ecosystems and sustainable utilization of fishery resources under the ongoing global oxygen crisis.",
+    "keywords": [
+      "Yangtze Estuary",
+      "Oxygen demand (MODC)",
+      "Habitat viability (AGIC)",
+      "Seasonal variation",
+      "Benthic communities",
+      "Hypoxia resilience",
+      "Temperature-oxygen dynamics",
+      "Community structure",
+      "Marine stressors",
+      "Estuarine ecosystem health"
+    ],
+    "date": "2024-12-01"
+  },
+  {
+    "doi": "10.1016/j.gloenvcha.2023.102681",
+    "title": "Towards a better future for biodiversity and people: Modelling Nature Futures",
+    "authors": "HyeJin Kim, Garry D. Peterson, William W.L. Cheung, Simon Ferrier, Rob Alkemade, Almut Arneth, Jan J. Kuiper, Sana Okayasu, Laura Pereira, Lilibeth A. Acosta, Rebecca Chaplin-Kramer, Eefje den Belder, Tyler D. Eddy, Justin A Johnson, Sylvia Karlsson-Vinkhuyzen, Marcel T.J. Kok, Paul Leadley, David Lecl\u00e8re, Carolyn J. Lundquist, Carlo Rondinini, Robert J. Scholes, Machteld A. Schoolenberg, Yunne-Jai Shin, Elke Stehfest, Fabrice Stephenson, Piero Visconti, Detlef van Vuuren, Colette C.C. Wabnitz, Juan Jos\u00e9 Alava, Ivon Cuadros-Casanova, Kathryn K. Davies, Maria A. Gasalla, Ghassen Halouani, Mike Harfoot, Shizuka Hashimoto, Thomas Hickler, Tim Hirsch, Grigory Kolomytsev, Brian W. Miller, Haruka Ohashi, Maria Gabriela Palomo, Alexander Popp, Roy Paco Remme, Osamu Saito, U. Rashid Sumalia, Simon Willcock, Henrique M. Pereira",
+    "journal": "Global Environmental Change",
+    "short_journal": "Global Environmental Change",
+    "volume": "82",
+    "page": "102681",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2023,
+        9
+      ]
+    ],
+    "issn": [
+      "0959-3780"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "is_referenced_by_count": 37,
+    "reference_count": 135,
+    "journal_link": "https://doi.org/10.1016/j.gloenvcha.2023.102681",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "HyeJin Kim, Garry D. Peterson, <strong>William W.L. Cheung</strong>, Simon Ferrier, <strong>Rob Alkemade</strong>, Almut Arneth, Jan J. Kuiper, Sana Okayasu, <strong>Laura Pereira</strong>, Lilibeth A. Acosta, Rebecca Chaplin-Kramer, Eefje den Belder, Tyler D. Eddy, Justin A Johnson, Sylvia Karlsson-Vinkhuyzen, Marcel T.J. Kok, Paul Leadley, David Lecl\u00e8re, Carolyn J. Lundquist, Carlo Rondinini, Robert J. Scholes, Machteld A. Schoolenberg, Yunne-Jai Shin, Elke Stehfest, Fabrice Stephenson, Piero Visconti, Detlef van Vuuren, Colette C.C. Wabnitz, Juan Jos\u00e9 Alava, Ivon Cuadros-Casanova, Kathryn K. Davies, Maria A. Gasalla, Ghassen Halouani, Mike Harfoot, Shizuka Hashimoto, Thomas Hickler, Tim Hirsch, Grigory Kolomytsev, Brian W. Miller, Haruka Ohashi, Maria Gabriela Palomo, Alexander Popp, Roy Paco Remme, Osamu Saito, U. Rashid Sumalia, Simon Willcock, Henrique M. Pereira (2023). Towards a better future for biodiversity and people: Modelling Nature Futures. <i>Global Environmental Change</i>. https://doi.org/10.1016/j.gloenvcha.2023.102681",
+    "citation_count": 37,
+    "abstract": "This paper presents how the Nature Futures Framework (NFF) can be used to model positive futures for biodiversity and human well-being. It emphasizes the integration of diverse values of nature and the importance of systemic feedbacks. The authors offer methodological approaches for scenario building and policy planning under the NFF.",
+    "keywords": [
+      "nature futures",
+      "biodiversity",
+      "scenario modeling",
+      "nature-society relationships",
+      "relational values",
+      "policy design",
+      "future planning"
+    ],
+    "date": "2023-09-01"
+  },
+  {
+    "doi": "10.1016/j.marpol.2023.105644",
+    "title": "The living infinite: Envisioning futures for transformed human-nature relationships on the high seas",
+    "authors": "Laura M. Pereira, Guillermo Ortu\u00f1o Crespo, Diva J. Amon, Renuka Badhe, Salom\u00e3o Bandeira, Frida Bengtsson, Miranda Boettcher, Gabrielle Carmine, William W.L. Cheung, Bwalya Chibwe, Daniel Dunn, Maria A. Gasalla, Ghassen Halouani, David E. Johnson, Jean-Baptiste Jouffray, Silvana Juri, Patrick W. Keys, Hannah M. L\u00fcbker, Andrew S. Merrie, Farah Obaidullah, Juliano Palacios-Abrantes, Lynne J. Shannon, U. Rashid Sumaila, Edoardo Superchi, Naomi Terry, Colette C.C. Wabnitz, Moriaki Yasuhara, Wei Zhou",
+    "journal": "Marine Policy",
+    "short_journal": "Marine Policy",
+    "volume": "153",
+    "page": "105644",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2023,
+        7
+      ]
+    ],
+    "issn": [
+      "0308-597X"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "is_referenced_by_count": 10,
+    "reference_count": 92,
+    "journal_link": "https://doi.org/10.1016/j.marpol.2023.105644",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "<strong>Laura M. Pereira</strong>, Guillermo Ortu\u00f1o Crespo, Diva J. Amon, Renuka Badhe, Salom\u00e3o Bandeira, Frida Bengtsson, Miranda Boettcher, Gabrielle Carmine, <strong>William W.L. Cheung</strong>, Bwalya Chibwe, Daniel Dunn, Maria A. Gasalla, Ghassen Halouani, David E. Johnson, Jean-Baptiste Jouffray, Silvana Juri, Patrick W. Keys, Hannah M. L\u00fcbker, Andrew S. Merrie, Farah Obaidullah, Juliano Palacios-Abrantes, Lynne J. Shannon, U. <strong>Rashid Sumaila</strong>, Edoardo Superchi, Naomi Terry, Colette C.C. Wabnitz, Moriaki Yasuhara, Wei Zhou (2023). The living infinite: Envisioning futures for transformed human-nature relationships on the high seas. <i>Marine Policy</i>. https://doi.org/10.1016/j.marpol.2023.105644",
+    "citation_count": 10,
+    "abstract": "This article explores visionary futures for human-nature relationships on the high seas. It synthesizes diverse global perspectives to propose a transformed narrative that emphasizes inclusivity, equity, and ecological stewardship in high seas governance. The study advocates for a radical shift in thinking, grounded in ethics and interdisciplinary knowledge.",
+    "keywords": [
+      "high seas",
+      "future scenarios",
+      "governance",
+      "human-nature relationship",
+      "marine policy",
+      "equity",
+      "ecological stewardship"
+    ],
+    "date": "2023-07-01"
+  },
+  {
+    "doi": "10.1016/j.marpol.2023.105740",
+    "title": "Drivers of conflict and resilience in shifting transboundary fisheries",
+    "authors": "Jacqueline M. Vogel, Catherine Longo, Jessica Spijkers, Juliano Palacios-Abrantes, Julia Mason, Colette C.C. Wabnitz, William Cheung, U. Rashid Sumaila, Gordon Munro, Sarah Glaser, Johann Bell, Yongjun Tian, Nancy L. Shackell, Elizabeth R. Selig, Philippe Le Billon, James R. Watson, Cullen Hendrix, Malin L. Pinsky, Ingrid van Putten, Kendra Karr, Eva A. Papaioannou, Rod Fujita",
+    "keywords": [
+      "transboundary fisheries",
+      "fish stock shifts",
+      "climate change",
+      "EEZs and high seas",
+      "fisheries conflict",
+      "governance gaps",
+      "geopolitical tensions",
+      "shared resources",
+      "cooperative management",
+      "conflict resilience"
+    ],
+    "journal": "Marine Policy",
+    "short_journal": "Marine Policy",
+    "volume": "155",
+    "page": "105740",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2023,
+        9
+      ]
+    ],
+    "issn": [
+      "0308-597X"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "is_referenced_by_count": 12,
+    "reference_count": 97,
+    "journal_link": "https://doi.org/10.1016/j.marpol.2023.105740",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Jacqueline M. Vogel, Catherine Longo, Jessica Spijkers, <strong>Juliano Palacios-Abrantes</strong>, <strong>Julia Mason</strong>, Colette C.C. Wabnitz, <strong>William Cheung</strong>, U. <strong>Rashid Sumaila</strong>, Gordon Munro, Sarah Glaser, Johann Bell, Yongjun Tian, Nancy L. Shackell, Elizabeth R. Selig, Philippe Le Billon, James R. Watson, Cullen Hendrix, Malin L. Pinsky, Ingrid van Putten, Kendra Karr, Eva A. Papaioannou, Rod Fujita (2023). Drivers of conflict and resilience in shifting transboundary fisheries. <i>Marine Policy</i>. https://doi.org/10.1016/j.marpol.2023.105740",
+    "citation_count": 12,
+    "abstract": "Climate change is causing fish stocks to shift, upending the social-ecological systems that rely on the historic distributions of these stocks and creating or exacerbating fisheries conflicts. The movements of internationally shared stocks betweenExclusive Economic Zones(EEZs) or between EEZs and the high seas are especially concerning because they bring into play a variety of geopolitical factors and equity issues surrounding missing or conflicting regulations of jurisdictional boundary zones. Though many studies have explored the responses to and repercussions of shifting stocks on fisheries management, there is a dearth of interdisciplinarycase studiesthat provide insight into the complexity of conflict formation in shifting transboundary fisheries, and that highlight the initial response stages where inclusion of proactive and cooperative measures can greatly improve a system\u2019s resilience to conflict. Our study helps to fill this gap by drawing on the knowledge of a diverse group of experts to analyze fourcase studieswhere transboundary stock shifts, geopolitical or governance tensions, and uncertainty regarding the future of the marine environment collide. Through synthesis of case study findings, we create a causal model of fishery conflict, within which we highlight factors that may heighten or mitigate the risk of conflict over shifting resources such as complex histories of power imbalance, unequal access to resources, or a lack of consistent and transparent data collection. Cooperation and equitable decision-making processes are recognized as vital components of internationally shared stock management which can promote lasting, effective, and conflict-resilient fisheries.",
+    "date": "2023-09-01"
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2024.177024",
+    "title": "Climate change undermines seafood micronutrient supply from wild-capture fisheries in Southeast Asia and Pacific Island countries",
+    "authors": "Paolo Cappa, Vania Andreoli, Charlotte La, Juliano Palacios-Abrantes, Gabriel Reygondeau, William W.L. Cheung, Dirk Zeller",
+    "keywords": [
+      "climate change",
+      "marine fisheries",
+      "micronutrient supply",
+      "seafood nutrition",
+      "Southeast Asia",
+      "Pacific Islands",
+      "bioclimate envelope model",
+      "Maximum Catch Potential",
+      "exclusive economic zones",
+      "fisheries policy"
+    ],
+    "journal": "Science of The Total Environment",
+    "short_journal": "Science of The Total Environment",
+    "volume": "955",
+    "page": "177024",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2024,
+        12
+      ]
+    ],
+    "issn": [
+      "0048-9697"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "reference_count": 103,
+    "journal_link": "https://doi.org/10.1016/j.scitotenv.2024.177024",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Paolo Cappa, Vania Andreoli, Charlotte La, <strong> Palacios-Abrantes</strong>, Gabriel Reygondeau, <strong>William W.L. Cheung</strong>, Dirk Zeller (2024). Climate change undermines seafood micronutrient supply from wild-capture fisheries in Southeast Asia and Pacific Island countries. <i>Science of The Total Environment</i>. https://doi.org/10.1016/j.scitotenv.2024.177024",
+    "abstract": "Climate change impacts marine fisheries catches and micronutrient availability. 21st century catches in Pacific Islands, Southeast Asia and Oceania will decrease. Seafood-derived micronutrients in all areas will decline substantially. Micronutrient supply is insufficient even under strong climate change mitigation.AbstractMarine ecosystem functions are affected by climate change impacts such as ocean warming, deoxygenation and acidification. These impacts drive changes in distributions and body size of fish species and directly affect fisheries. Wild-capture fisheries are crucial for providing nutrients, livelihoods, and employment in tropical Southeast Asia and Pacific Island countries, where coastal communities are highly vulnerable to climate change. We examined the impacts of climate change on fish stocks and nutrient availability of seven key micronutrients (calcium, Omega-3 fatty acids, iodine, iron, vitamin A, vitamin B12 and zinc) in Southeast Asia, Pacific Islands, and Oceania (Australia and New Zealand). We combined micronutrient demands by local human populations withSea Around Usreconstructed catch time series and catch projections from a dynamic bioclimate envelope model for the 21st century. The model predicted a decline in the Maximum Catch Potential (MCP) within Exclusive Economic Zones for Oceania, Pacific Islands, and Southeast Asian countries. Under the \u2018strong mitigation\u2019 scenario, catch potential reductions ranged from a decline of 54\u201366\u00a0% in Oceania, 58\u201392\u00a0% in Pacific Islands, and 65\u201386\u00a0% in Southeast Asia by the mid to the end of the 21st century relative to the historical period, respectively. Under the \u2018no-mitigation\u2019 climate scenario, reductions were more severe, with a decline of 55\u201370\u00a0% in Oceania, 66\u201392\u00a0% in Pacific Islands, and 70\u201386\u00a0% in Southeast Asia for the same time periods. Our findings indicate that Australia and New Zealand are unlikely to meet the recommended nutrient intake demand for most micronutrients through their fisheries (not considering trade or aquaculture production), except for iodine and vitamin B12. Pacific Island countries will likely follow the same pattern while Southeast Asia is expected to face worsening deficits, except for iodine and vitamin B12. This study highlights the importance of incorporating nutritional considerations of seafood into national food, trade and economic policies.Graphical abstractDownload:Download high-res image (604KB)Download:Download full-size image",
+    "date": "2024-12-01"
+  },
+  {
+    "doi": "10.1088/1748-9326/adcbc4",
+    "title": "Transforming towards what? A review of futures-thinking applied in the quest for navigating sustainability transformations",
+    "abstract": "There is a growing call for transformations to remain within safe and just Earth system boundaries. Coherent visions of desired futures can help motivate and orient such transformations towards Sustainability, but the nature of these transformed futures is not well understood. This gap has inspired a growing body of research on \u2018preferable\u2019 or \u2018desirable\u2019 futures, which can help to unpack what endpoints such transformations to sustainability could entail and what is needed to get there. In this paper, we adopt a mixed methods approach to review the research literature focused on transformative futures so as to gain a general overview of the field and then undertake two qualitative analyses: i) unpacking the methods, terms and types of outputs produced; and ii) capturing emergent themes, commonalities and divergences in what is deemed to be a sustainable transformation in the future based on normative visions from either North, South or Global perspectives. Our findings show that the literature landscape on explorative scenarios has significantly increased in the past ten years with most publications led by authors in the Global North. From the fraction of studies that describe desirable futures, visions highlight social, environmental and equity dimensions, but nuances were found between North and South. The visions that suggest the most transformative potential seek a more harmonious human-nature relationship and consider outcomes holistically, but only a fraction offer actual \u2018alternatives\u2019 to the status quo. We find that several gaps remain at the interface of biodiversity/ecosystems and justice, or the integration and impact of diverse knowledges and cultures. Addressing these in participatory, just and creative ways seems of utmost urgency. We hope this review can offer a glimpse of how futures-thinking can contribute to research and action on sustainability transformations, and the insights can inform and inspire future research.",
+    "authors": "Silvana Juri, Andrea Marais-Potgieter, Therezah Achieng, Ignacio Gianelli, Mulako Kabisa, Batlhalifi Nkgothoe, Joyce Ojino, S\u00e8nankpon Tcheton, Liam Carpenter-Urquhart, Laura Pereira",
+    "journal": "Environmental Research Letters",
+    "short_journal": "Environ. Res. Lett.",
+    "publisher": "IOP Publishing",
+    "keywords": [
+      "Sustainability transformations",
+      "Desirable futures",
+      "Earth system boundaries",
+      "Human-nature relationships",
+      "Explorative scenarios",
+      "Equity and justice",
+      "Biodiversity integration",
+      "Participatory research",
+      "Normative visions",
+      "Global North-South perspectives"
+    ],
+    "published_online": [
+      [
+        2025,
+        4,
+        11
+      ]
+    ],
+    "issn": [
+      "1748-9326"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "journal_link": "https://doi.org/10.1088/1748-9326/adcbc4",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Silvana Juri, <strong>Andrea Marais-Potgieter</strong>, Therezah Achieng, Ignacio Gianelli, Mulako Kabisa, Batlhalifi Nkgothoe, Joyce Ojino, S\u00e8nankpon Tcheton, Liam Carpenter-Urquhart, <strong>Laura Pereira</strong> (2025). Transforming towards what? A review of futures-thinking applied in the quest for navigating sustainability transformations. <i>Environmental Research Letters</i>. https://doi.org/10.1088/1748-9326/adcbc4",
+    "date": "2025-04-11"
+  },
+  {
+    "doi": "10.1111/gcb.17442",
+    "title": "Climate change alters social\u2010ecological trade\u2010offs in achieving ocean futures' targets",
+    "abstract": "The effects of climate change on marine ecosystems are causing cascading impacts on livelihood, food security, and culture through fisheries. Such impacts interact and exacerbate the effects of overfishing on marine social\u2010ecological systems, complicating the rebuilding of ecosystems to achieve desirable and sustainable ocean futures. Developing effective pathways for ecosystem rebuilding requires consideration of the co\u2010benefits and trade\u2010offs between ecological and social dimensions and between fishing sectors. However, the effects of intensifying climate change on such co\u2010benefits or trade\u2010offs are yet to be well understood, particularly in regions where ecosystem rebuilding is urgently needed. We applied a numerical optimization routine to define the scope for improvement toward the Pareto\u2010frontier for ecological robustness and economic benefits of the northern South China Sea (NSCS) and the East China Sea (ECS) ecosystems. These two ecosystems were used to represent over\u2010exploited low\u2010 and mid\u2010latitude systems, respectively, and the optimization aimed to improve their status through fisheries management. We find that the ECS ecosystem has the possibility of increasing the economic benefits generated by the fisheries it supports under climate change by 2050 while increasing the uncertainty of achieving biodiversity objectives. Nevertheless, climate change is projected to reduce the scope to restore ecosystem structures and the potential economic benefits in the NSCS ecosystem. This study highlights the contrasting impacts of climate change on the co\u2010benefits/trade\u2010offs in ecosystem rebuilding and the benefits obtainable by different fishing sectors even in neighboring ecosystems. We conclude that consideration at the nexus of climate\u2013biodiversity\u2010fisheries is a key to developing effective ecosystem rebuilding plan.",
+    "keywords": [
+      "climate change",
+      "ecosystem rebuilding",
+      "South China Sea",
+      "East China Sea",
+      "fisheries management",
+      "Pareto optimization",
+      "biodiversity trade-offs",
+      "fishing sectors",
+      "ecological robustness",
+      "sustainable ocean futures"
+    ],
+    "authors": "Zeyu Zeng, Vicky W. Y. Lam, U. Rashid Sumaila, William W. L. Cheung",
+    "journal": "Global Change Biology",
+    "short_journal": "Global Change Biology",
+    "volume": "30",
+    "issue": "8",
+    "publisher": "Wiley",
+    "published_online": [
+      [
+        2024,
+        7,
+        31
+      ]
+    ],
+    "published_print": [
+      [
+        2024,
+        8
+      ]
+    ],
+    "issn": [
+      "1354-1013",
+      "1365-2486"
+    ],
+    "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "reference_count": 70,
+    "journal_link": "https://doi.org/10.1111/gcb.17442",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Zeyu Zeng, Vicky W. Y. Lam, U. <strong>Rashid Sumaila</strong>, <strong>William W. L. Cheung</strong> (2024). Climate change alters social\u2010ecological trade\u2010offs in achieving ocean futures' targets. <i>Global Change Biology</i>. https://doi.org/10.1111/gcb.17442",
+    "date": "2024-08-01"
+  },
+  {
+    "doi": "10.1016/j.crsus.2024.100104",
+    "title": "Utilizing basic income to create a sustainable, poverty-free tomorrow",
+    "authors": "U. Rashid Sumaila, Colette C.C. Wabnitz, Louise S.L. Teh, Lydia C.L. Teh, Vicky W.Y. Lam, Haske Sumaila, William W.L. Cheung, Ibrahim Issifu, Kristen Hopewell, Joshua E. Cinner, Nathan J. Bennett, Carl Folke, Sumeet Gulati, Stephen Polasky",
+    "journal": "Cell Reports Sustainability",
+    "short_journal": "Cell Reports Sustainability",
+    "volume": "1",
+    "issue": "6",
+    "page": "100104",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2024,
+        6
+      ]
+    ],
+    "issn": [
+      "2949-7906"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "is_referenced_by_count": 1,
+    "reference_count": 86,
+    "journal_link": "https://doi.org/10.1016/j.crsus.2024.100104",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "U. <strong>Rashid Sumaila</strong>, Colette C.C. Wabnitz, Louise S.L. <strong>Teh, Lydia</strong> C.L. Teh, Vicky W.Y. Lam, Haske Sumaila, <strong>William W.L. Cheung</strong>, <strong>Ibrahim Issifu</strong>, Kristen Hopewell, Joshua E. Cinner, Nathan J. Bennett, Carl Folke, Sumeet Gulati, Stephen Polasky (2024). Utilizing basic income to create a sustainable, poverty-free tomorrow. <i>Cell Reports Sustainability</i>. https://doi.org/10.1016/j.crsus.2024.100104",
+    "citation_count": 1,
+    "abstract": "This study explores the role of universal basic income (UBI) as a policy mechanism to reduce poverty and promote sustainability. Using a cross-disciplinary approach, the authors analyze UBI\u2019s potential to reshape social and environmental outcomes through case studies and modeling. They argue that implementing UBI could strengthen resilience, reduce inequality, and facilitate transitions toward more equitable and sustainable societies.",
+    "keywords": [
+      "universal basic income",
+      "poverty reduction",
+      "social sustainability",
+      "policy",
+      "climate resilience",
+      "equity",
+      "economic transition"
+    ],
+    "date": "2024-06-01"
+  },
+  {
+    "doi": "10.24289/ijsser.1493581",
+    "title": "Impact of the coronavirus pandemic on the aquaculture industry in Sunyani Municipality, Ghana",
+    "abstract": "The coronavirus pandemic has substantially influenced the aquaculture industry in Ghana, particularly the socioeconomic situation of fish producers. The primary goal of this study was to assess the influence of COVID-19 on pond aquaculture in the Sunyani municipality, Ghana. To address this, the study used purposive and random sampling techniques to administer a semi-structured questionnaire to fifty (50) fish farmers. According to the survey, most respondents reported that the COVID-19 pandemic impacted pond aquaculture productivity, products, and farm operations. According to the respondents, the impact on pond aquaculture production was caused by the high cost of fingerlings, fish feed, and table-sized farmed fishes, as well as a scarcity of fingerlings, fish feed, and pharmaceutical supplies like lime. To avoid the pandemic's long-term damage, it is recommended that fish farmers should purchase pond aquaculture materials in bulk, including feed and pharmaceuticals.",
+    "keywords": [
+      "COVID-19 impact",
+      "Pond aquaculture",
+      "Fish farmers",
+      "Ghana",
+      "Socioeconomic effects",
+      "Input scarcity",
+      "Aquaculture productivity",
+      "Semi-structured survey",
+      "Feed and pharmaceutical supply",
+      "Pandemic resilience"
+    ],
+    "authors": "Berchie Asiedu, Samuel Henneh, Andrews Apraku, Samuel Amponsah",
+    "journal": "International Journal of Social Sciences and Education Research",
+    "volume": "10",
+    "issue": "4",
+    "page": "236-247",
+    "publisher": "International Journal of Social Sciences and Education Research",
+    "published_online": [
+      [
+        2024,
+        12,
+        31
+      ]
+    ],
+    "issn": [
+      "2149-5939"
+    ],
+    "reference_count": 46,
+    "journal_link": "https://doi.org/10.24289/ijsser.1493581",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "<strong>Berchie Asiedu</strong>, Samuel Henneh, Andrews Apraku, Samuel Amponsah (2024). Impact of the coronavirus pandemic on the aquaculture industry in Sunyani Municipality, Ghana. <i>International Journal of Social Sciences and Education Research</i>. https://doi.org/10.24289/ijsser.1493581",
+    "date": "2024-12-31"
+  },
+  {
+    "doi": "10.1080/13657305.2025.2455426",
+    "title": "A comparative assessment of economic, social, and environmental performance of tilapia aquaculture in Nigeria and Ghana",
+    "abstract": "Capture fisheries in many developing countries are overcapitalized and biologically overexploited, necessitating the promotion of aquaculture to mitigate the deficit in animal protein requirements, create jobs, reduce poverty, and improve the livelihoods of individuals and communities. Over the last two decades, total aquaculture output and its contribution to domestic fish production have surged, reaching 19% and 26% by 2021 (from 1% and 6% in 2000) in Ghana and Nigeria, respectively. The two main species cultivated are tilapia and catfish. While Nigeria is Africa\u2019s second-largest aquaculture producer, Ghana experienced the fastest growth in aquaculture production between 2006 and 2019. Despite the potential benefits, the sectors in both countries face critical challenges, including high feed costs and a lack of technical expertise. In addition, aquaculture can impose a negative externality on aquatic and terrestrial ecosystems. As a result, aquaculture\u2019s social, economic, and environmental sustainability benefits are context and species-specific, hence an empirical conundrum. This study employs the Aquaculture Performance Indicators (APIs) for a comparative assessment of tilapia farms in Nigeria and Ghana. We found that the overall economic sustainability score is similar for both countries, but Ghana outperforms Nigeria marginally in social and environmental performance.",
+    "keywords": [
+      "Aquaculture performance",
+      "Tilapia and catfish farming",
+      "Ghana and Nigeria",
+      "Economic sustainability",
+      "Social and environmental impact",
+      "Feed cost challenges",
+      "Aquaculture growth",
+      "Technical expertise gap",
+      "Protein security",
+      "Aquaculture externalities"
+    ],
+    "authors": "Wisdom Akpalu, Chukwuone Nnaemeka",
+    "journal": "Aquaculture Economics &amp; Management",
+    "short_journal": "Aquaculture Economics &amp; Management",
+    "page": "1-21",
+    "publisher": "Informa UK Limited",
+    "published_online": [
+      [
+        2025,
+        1,
+        28
+      ]
+    ],
+    "issn": [
+      "1365-7305",
+      "1551-8663"
+    ],
+    "reference_count": 51,
+    "journal_link": "https://doi.org/10.1080/13657305.2025.2455426",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "<strong>Wisdom Akpalu</strong>, Chukwuone Nnaemeka (2025). A comparative assessment of economic, social, and environmental performance of tilapia aquaculture in Nigeria and Ghana. <i>Aquaculture Economics &amp; Management</i>. https://doi.org/10.1080/13657305.2025.2455426",
+    "date": "2025-01-28"
+  },
+  {
+    "doi": "10.1038/s43016-025-01122-1",
+    "title": "System-specific aquaculture annual growth rates can mitigate the trilemma of production, pollution and carbon dioxide emissions in China",
+    "abstract": "This study examines how system-specific aquaculture growth strategies in China can help mitigate environmental trade-offs between food production, pollution, and carbon emissions. Using empirical data and predictive modeling, it shows that tailored growth rates for different aquaculture systems can significantly reduce carbon footprints while maintaining or increasing output.",
+    "authors": "Shuang-Lin Dong, Ling Cao, Wen-Jing Liu, Ming Huang, Yun-Xia Sun, Yu-Yang Zhang, Shuang-En Yu, Yan-Gen Zhou, Li Li, Yun-Wei Dong",
+    "journal": "Nature Food",
+    "short_journal": "Nat Food",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2025,
+        2,
+        11
+      ]
+    ],
+    "issn": [
+      "2662-1355"
+    ],
+    "license": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "is_referenced_by_count": 1,
+    "reference_count": 57,
+    "journal_link": "https://doi.org/10.1038/s43016-025-01122-1",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Shuang-Lin Dong, <strong>Ling Cao</strong>, Wen-Jing Liu, Ming Huang, Yun-Xia Sun, Yu-Yang Zhang, Shuang-En Yu, Yan-Gen Zhou, Li Li, Yun-Wei Dong (2025). System-specific aquaculture annual growth rates can mitigate the trilemma of production, pollution and carbon dioxide emissions in China. <i>Nature Food</i>. https://doi.org/10.1038/s43016-025-01122-1",
+    "citation_count": 1,
+    "keywords": [
+      "aquaculture",
+      "carbon emissions",
+      "pollution",
+      "sustainable food systems",
+      "China",
+      "climate mitigation",
+      "production systems"
+    ],
+    "date": "2025-02-11"
+  },
+  {
+    "doi": "10.1016/j.foohum.2024.100266",
+    "title": "Unraveling the drivers of the adoption of improved fish smoking technology among small-scale fisheries: A case study of the Ahotor oven in Ghana",
+    "abstract": "Effort expectancy and performance expectancy showed positive relationships with behavioural intention toward the use ofAhotoroven as IFST. Facilitating conditions showed a positive relationship with behavioural intention toward the use ofAhotoroven as IFST. Habits showed a positive relationship with behavioural intention toward the use ofAhotoroven as IFST). Hedonic motivation showed a positive relationship with behavioural intention toward the use ofAhotoroven as IFST. Social influence was found to be the dominant factor but negatively moderates the relationship between\u00a0habit and behavioural intention, leading to low adoption of theAhotoroven as IFST.AbstractPost-harvest losses and food safety concerns in the fish-processing sector have led to the development of improved fish-smoking technology (IFST) such as theAhotoroven in Ghana. Nevertheless, traditional fish-smoking ovens remain widely used in coastal communities. However, previous research has primarily focused on the scientific aspects of this issue, leaving a gap in understanding user perceptions and intentions from a behavioural perspective. To address this gap, a behavioural theoretical model, based on the revised unified theory of acceptance and use of technology (UTAUT-2) adapted to the context of IFST was proposed in this study. This study aimed to unravel the driving factors influencing the behavioural intentions to use theAhotoroven. A survey was applied to 357 women engaged in fish smoking activity from five coastal communities in the Western and Central regions of Ghana and aware of theAhotor oven, and the theoretical model was subsequently tested using a partial least-squares structural equation model (PLS-SEM) analysis. Our findings revealed that social influence, effort expectancy, facilitation conditions, habits, hedonic motivation, and performance expectancy all had a direct impact on fishmongers' intention to use theAhotoroven. Social influence was found to be the dominant factor, but negatively moderates the relationship between habit and behavioural intention to use theAhotoroven. This means that social influence significantly dampens the established positive effect of habit on behavioural intention among fishmongers, leading to low adoption of theAhotoroven. These results provide valuable insights for policymakers and stakeholders in the fisheries sector, enabling them to understand the behavioural factors that enablers and inhibitors influencing intention to use theAhotoroven improved fishsmoking technology (IFST), and to take necessary actions to improve its adoption among fishmongers in coastal communities.",
+    "keywords": [
+      "Ahotor oven",
+      "fish smoking",
+      "technology adoption",
+      "behavioural intention",
+      "UTAUT-2",
+      "Ghana fisheries",
+      "PLS-SEM",
+      "social influence",
+      "habits and motivation",
+      "improved fish-smoking technology"
+    ],
+    "authors": "Iddrisu Salifu, Denis Worlanyo Aheto, Godwin Kofi Vondolia",
+    "journal": "Food and Humanity",
+    "short_journal": "Food and Humanity",
+    "volume": "2",
+    "page": "100266",
+    "publisher": "Elsevier BV",
+    "published_print": [
+      [
+        2024,
+        5
+      ]
+    ],
+    "issn": [
+      "2949-8244"
+    ],
+    "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+    "reference_count": 116,
+    "journal_link": "https://doi.org/10.1016/j.foohum.2024.100266",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Iddrisu Salifu, Denis Worlanyo Aheto, Godwin Kofi Vondolia (2024). Unraveling the drivers of the adoption of improved fish smoking technology among small-scale fisheries: A case study of the Ahotor oven in Ghana. <i>Food and Humanity</i>. https://doi.org/10.1016/j.foohum.2024.100266",
+    "date": "2024-05-01"
+  },
+  {
+    "doi": "10.1111/gcb.17437",
+    "title": "Large potential impacts of marine heatwaves on ecosystem functioning",
+    "abstract": "Ocean warming is driving significant changes in the structure and functioning of marine ecosystems, shifting species' biogeography and phenology, changing body size and biomass and altering the trophodynamics of the system. Particularly, extreme temperature events such as marine heatwaves (MHWs) have been increasing in intensity, duration and frequency. MHWs are causing large\u2010scale impacts on marine ecosystems, such as coral bleaching, mass mortality of seagrass meadows and declines in fish stocks and other marine organisms in recent decades. In this study, we developed and applied a dynamic version of the EcoTroph trophodynamic modelling approach to study the cascading effects of individual MHW on marine ecosystem functioning. We simulated theoretical user\u2010controlled ecosystems and explored the consequences of various assumptions of marine species mortality along the food web, associated with different MHW intensities. We show that an MHW can lead to a significant biomass reduction of all consumers, with the severity of the declines being dependent on species trophic levels (TLs) and biomes, in addition to the characteristics of MHWs. Biomass of higher TLs declines more than lower TLs under an MHW, leading to changes in ecosystem structure. While tropical ecosystems are projected to be sensitive to low\u2010intensity MHWs, polar and temperate ecosystems are expected to be impacted by more intense MHWs. The estimated time to recover from MHW impacts is twice as long for polar ecosystems and one\u2010third longer for temperate biomes compared with tropical biomes. This study highlights the importance of considering extreme weather events in assessing the effects of climate change on the structures and functions of marine ecosystems.",
+    "keywords": [
+      "marine heatwaves",
+      "ocean warming",
+      "trophic structure",
+      "EcoTroph model",
+      "species mortality",
+      "biogeographic shifts",
+      "biomass decline",
+      "recovery time",
+      "tropical ecosystems",
+      "polar ecosystems",
+      "extreme weather impacts"
+    ],
+    "authors": "Vianney Guibourd de Luzinais, Didier Gascuel, Gabriel Reygondeau, William W. L. Cheung",
+    "journal": "Global Change Biology",
+    "short_journal": "Global Change Biology",
+    "volume": "30",
+    "issue": "7",
+    "publisher": "Wiley",
+    "published_online": [
+      [
+        2024,
+        7,
+        26
+      ]
+    ],
+    "published_print": [
+      [
+        2024,
+        7
+      ]
+    ],
+    "issn": [
+      "1354-1013",
+      "1365-2486"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "is_referenced_by_count": 5,
+    "reference_count": 123,
+    "journal_link": "https://doi.org/10.1111/gcb.17437",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Vianney Guibourd de Luzinais, Didier Gascuel, Gabriel Reygondeau, <strong>William W. L. Cheung</strong> (2024). Large potential impacts of marine heatwaves on ecosystem functioning. <i>Global Change Biology</i>. https://doi.org/10.1111/gcb.17437",
+    "citation_count": 5,
+    "date": "2024-07-01"
+  },
+  {
+    "doi": "10.5281/zenodo.10206993",
+    "title": "A Closer Look at Socio-Economic and management perspectives of shark fishery in Ghana",
+    "abstract": "Shark is an important fishery commodity globally. However, 70 % decline in the populations of shark species has cast doubt on the fishery's economic success, especially in Ghana. Therefore, studying the shark fishery activities in Ghana from the perspectives of production, socio-economic, and management will inform key stakeholders of the approaches needed to strengthen the conservation of the fishery. We interviewed ninety-one (91) shark fishers from four important landing sites, namely; Apam, Dixcove, Tema, and Axim along the coast of Ghana using a semi-structured interview guide, and recorded their landings between April and December 2022. Our findings show that the dominant shark species landed by fishers were Sphyrna sp., C. leucas, C. carcahrias, R. acutus, C. carcharodon, I. oxyrinus, and Aliopas sp. with Sphyrna sp. and C. leucas experiencing a drastic population decline. Togo and China were the main foreign destinations for shark fin products, particularly fins of Sphyrna sp., C. leucas, and Aliopas sp. (species classified by the IUCN Red List as Endangered species). The price of shark fins during the lean season was significantly higher than in the peak period, indicating the influence of seasonality on the pricing of shark fins. The main challenges confronting shark fishing in Ghana were a decline in the population of sharks, inadequate premix fuel, and the risky nature of shark fishing activities. From the study, developing a species-specific conservation action plan through consultative approaches, community awareness programmes and enforcement of these conservation measures are some of the recommendations proposed.",
+    "authors": "Berchie Asiedu, Samuel K.K Amponsah, Failer Peirre, Andrews Apraku, Samuel Henneh, Lesley Ntim, Rachael Ackah, William D. Amekor, Esther N. Nkansah",
+    "journal": "Journal of Wildlife and Biodiversity",
+    "short_journal": "J. Wildlife Biodiv.",
+    "volume": "8",
+    "issue": "1",
+    "page": "366-385",
+    "publisher": "Zenodo",
+    "issn": [
+      "2588-3526"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "journal_link": "https://doi.org/10.5281/zenodo.10206993",
+    "type": "journal-article",
+    "score": 1,
+    "keywords": [
+      "shark fisheries",
+      "Ghana",
+      "socioeconomic impacts",
+      "marine conservation",
+      "species decline"
+    ],
+    "citation": "<strong>Asiedu, Berchie</strong>; Amponsah, Samuel K.K; Peirre, Failer; Apraku, Andrews; Henneh, Samuel; Ntim, Lesley; Ackah, Rachael; Amekor, William D.; Nkansah, Esther N. (2023). A Closer Look at Socio-Economic and management perspectives of shark fishery in Ghana. <i>Journal of Wildlife and Biodiversity</i>. https://doi.org/10.5281/zenodo.10206993",
+    "date": "2023-11-28"
+  },
+  {
+    "doi": "10.1038/s44183-024-00046-w",
+    "title": "Projecting contributions of marine protected areas to rebuild fish stocks under climate change",
+    "abstract": "No-take marine protected areas (No-take MPAs) are considered as a major tool for conserving marine biodiversity and ecosystem services. No-take MPAs can also contribute to climate adaptation for exploited fish stocks. Meanwhile, many fish stocks in the world are overfished and management institutions are developing plans to rebuild them. Understanding the potential effects of no-take MPAs on fish stocks under climate change can help develop strategies for climate-resilient stock rebuilding. Here, using a linked climate-fish-fishing model, we undertake simulation experiments to examine the effects of no-take MPAs on biomass and potential catches of 231 exploited fish and invertebrate species in eight marine ecoregions in the Northeast Atlantic under climate change. The simulations include different levels of fishing, no-take MPAs coverage, atmospheric global warming levels, and account for the expected displacement of fishing to the area around the no-take MPAs. Average individual stock biomass is projected to decrease by 5\u201315% per degree Celsius atmospheric warming. Having 30% of the distribution of over-exploited fish stocks under no-take MPAs together with conservation-focused fisheries management of these stocks are projected to offset the negative impacts on their biomass under 2.6\u20132.9\u2009\u00b0C global warming. Meanwhile, potential catches increase when a portion of the over-exploited fish stocks is protected from fishing as higher biomass in the no-take MPAs spills-over to the surrounding areas. Our findings highlight that no-take MPAs, combined with reducing fishing intensity, can help rebuild over-exploited fish biomass and benefit their dependent fisheries in the Northeast Atlantic under projected climate change in the 21st century.",
+    "keywords": [
+      "no-take MPAs",
+      "fish stock rebuilding",
+      "climate adaptation",
+      "marine protected areas",
+      "fisheries management",
+      "biomass spillover",
+      "Northeast Atlantic",
+      "global warming",
+      "species simulation",
+      "conservation policy"
+    ],
+    "authors": "William W. L. Cheung, Juliano Palacios-Abrantes, Sarah M. Roberts",
+    "journal": "npj Ocean Sustainability",
+    "short_journal": "npj Ocean Sustain",
+    "volume": "3",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "issn": [
+      "2731-426X"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0",
+    "is_referenced_by_count": 3,
+    "reference_count": 69,
+    "journal_link": "https://doi.org/10.1038/s44183-024-00046-w",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "<strong>William W. L. Cheung</strong>, <strong>Juliano Palacios-Abrantes</strong>, Sarah M. Roberts (2024). Projecting contributions of marine protected areas to rebuild fish stocks under climate change. <i>npj Ocean Sustainability</i>. https://doi.org/10.1038/s44183-024-00046-w",
+    "citation_count": 3,
+    "date": "2024-03-02"
+  },
+  {
+    "doi": "10.1038/s44183-024-00053-x",
+    "title": "Good fisheries management is good carbon management",
+    "abstract": "Climate change is causing persistent, widespread, and significant impacts on marine ecosystems which are predicted to interact and intensify. Overfishing and associated habitat degradation have put many fish populations and marine ecosystems at risk and is making the ocean more vulnerable to climate change and less capable of buffering against its effects. In this Perspective, we review how overfishing is disrupting the important role of marine vertebrates in the ocean carbon cycle, causing disturbance and damage to the carbon-rich seabed, and contributing to rising greenhouse gas emissions through fuel use. We discuss how implementing good fisheries management can reduce or remove many of the impacts associated with overfishing, including fish stock collapse, destruction of seabed habitats, provision of harmful subsidies and accompanying socio-economic impacts. Managing overfishing is one of the most effective strategies in protecting ocean carbon stores and can make an important contribution to climate mitigation and adaptation.",
+    "keywords": [
+      "overfishing",
+      "climate change",
+      "marine carbon cycle",
+      "carbon sequestration",
+      "seabed disturbance",
+      "fisheries management",
+      "greenhouse gas emissions",
+      "marine vertebrates",
+      "climate mitigation",
+      "ocean resilience"
+    ],
+    "authors": "Natalie F. Andersen, Emma L. Cavan, William W. L. Cheung, Angela H. Martin, Grace K. Saba, U. Rashid Sumaila",
+    "journal": "npj Ocean Sustainability",
+    "short_journal": "npj Ocean Sustain",
+    "volume": "3",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2024,
+        3,
+        21
+      ]
+    ],
+    "issn": [
+      "2731-426X"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0",
+    "is_referenced_by_count": 8,
+    "reference_count": 81,
+    "journal_link": "https://doi.org/10.1038/s44183-024-00053-x",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Natalie F. Andersen, Emma L. Cavan, <strong>William W. L. Cheung</strong>, Angela H. Martin, Grace K. Saba, U. <strong>Rashid Sumaila</strong> (2024). Good fisheries management is good carbon management. <i>npj Ocean Sustainability</i>. https://doi.org/10.1038/s44183-024-00053-x",
+    "citation_count": 8,
+    "date": "2024-03-21"
+  },
+  {
+    "doi": "10.1007/s11160-023-09814-2",
+    "title": "Spatiotemporal variation of China's mariculture potential under climate change",
+    "authors": "Xiangwei Liu, Yue Liu, Ziyu Jiang, Ling Cao",
+    "abstract": "Being the world\u2019s largest seafood producer, China\u2019s mariculture is critical for ensuring national and global food security, yet greatly threatened by climate change. It is essential to assess the potential opportunities and challenges for Chinese mariculture in light of climate change. Although the impact of climate change on mariculture potential at a global scale has been investigated, studies at sub-national scales of China are scarce, particularly those that take into account multiple environmental stressors and species. Here, we applied a combination of physical and biological models to quantify the spatiotemporal variation in the mariculture potential of seven finfish species and seven bivalve species cultured in China under the emission scenarios SSP5-8.5 and SSP1-2.6 in the twentyfirst century. Our results demonstrated that the spatiotemporal trends in culture potential was species-specific. Finfish was less affected than bivalves. Four finfish species and seven bivalve species showed a continuously declining trend in culture potential and most species showed a northward shift of the centroid with high growth potential under SSP5-8.5. Under the scenario SSP1-2.6, the culture potential of finfish species mostly showed a stable or increasing trend, while that of bivalve species declined in the mid-twentyfirst century and partially recovered in the late twentyfirst century. Cold-water species exhibited a greater loss of culture potential than warm-water and eurythermal species. In the SSP5-8.5 and SSP1-2.6 scenarios, the cold-water species Oncorhynchus mykiss and Patinopecten yessoensis experienced the most significant loss in culture potential among finfish and bivalve species. Meanwhile, the culture potential for two out of the four warm-water species, specifically Epinephelus spp. and Sciaenops ocellatus, saw an increase. The culture potential for eight eurythermal species remained stable or declined. This study helps to identify mariculture potential for different species and sea areas and can inform the development of climate-resilient mariculture in China.",
+    "journal": "Reviews in Fish Biology and Fisheries",
+    "keywords": [
+      "Mariculture potential, Climate impact, Bio-physical modeling, Finfish, Bivalves, China"
+    ],
+    "short_journal": "Rev Fish Biol Fisheries",
+    "volume": "34",
+    "issue": "1",
+    "page": "315-335",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2023,
+        11,
+        28
+      ]
+    ],
+    "published_print": [
+      [
+        2024,
+        3
+      ]
+    ],
+    "issn": [
+      "0960-3166",
+      "1573-5184"
+    ],
+    "license": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "is_referenced_by_count": 2,
+    "reference_count": 102,
+    "journal_link": "https://doi.org/10.1007/s11160-023-09814-2",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Xiangwei Liu, <strong>Yue Liu</strong>, Ziyu Jiang, <strong>Ling Cao</strong> (2024). Spatiotemporal variation of China\u2019s mariculture potential under climate change. <i>Reviews in Fish Biology and Fisheries</i>. https://doi.org/10.1007/s11160-023-09814-2",
+    "citation_count": 2,
+    "date": "2024-03-01"
+  },
+  {
+    "doi": "10.1007/s10640-022-00669-y",
+    "title": "Fish Protein Transition in a Coastal Developing Country",
+    "authors": "Wisdom Akpalu, Michael Adu Okyere",
+    "journal": "Environmental and Resource Economics",
+    "short_journal": "Environ Resource Econ",
+    "volume": "84",
+    "issue": "3",
+    "page": "825-843",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2022,
+        3,
+        19
+      ]
+    ],
+    "published_print": [
+      [
+        2023,
+        3
+      ]
+    ],
+    "issn": [
+      "0924-6460",
+      "1573-1502"
+    ],
+    "license": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "is_referenced_by_count": 4,
+    "reference_count": 70,
+    "journal_link": "https://doi.org/10.1007/s10640-022-00669-y",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "<strong>Wisdom Akpalu</strong>, Michael Adu Okyere (2023). Fish Protein Transition in a Coastal Developing Country. <i>Environmental and Resource Economics</i>. https://doi.org/10.1007/s10640-022-00669-y",
+    "citation_count": 4,
+    "abstract": "This study investigates the transition in fish protein consumption in a developing coastal country. It explores factors driving dietary shifts, the socio-economic implications of declining fisheries, and the potential of alternative sources such as aquaculture. The authors emphasize the need for effective policy frameworks to support sustainable food systems and ensure nutritional security.",
+    "keywords": [
+      "fish protein",
+      "dietary transition",
+      "aquaculture",
+      "food security",
+      "sustainable fisheries",
+      "coastal communities",
+      "nutrition"
+    ],
+    "date": "2023-03-01"
+  },
+  {
+    "doi": "10.1038/s41558-023-01822-1",
+    "title": "Climate change exacerbates nutrient disparities from seafood",
+    "abstract": "Seafood is an important source of bioavailable micronutrients supporting human health, yet it is unclear how micronutrient production has changed in the past or how climate change will influence its availability. Here combining reconstructed fisheries databases and predictive models, we assess nutrient availability from fisheries and mariculture in the past and project their futures under climate change. Since the 1990s, availabilities of iron, calcium and omega-3 from seafood for direct human consumption have increased but stagnated for protein. Under climate change, nutrient availability is projected to decrease disproportionately in tropical low-income countries that are already highly dependent on seafood-derived nutrients. At 4\u00b0C of warming, nutrient availability is projected to decline by ~30% by 2100 in low income countries, while at 1.5\u00b0C warming, decreases are projected to be ~10%. We demonstrate the importance of effective mitigation to support nutritional security of vulnerable nations and global health equity.",
+    "keywords": [
+      "seafood nutrition",
+      "micronutrient availability",
+      "climate change impact",
+      "fisheries and mariculture",
+      "low-income countries",
+      "nutritional security",
+      "warming scenarios",
+      "global health equity",
+      "iron and omega-3",
+      "seafood dependence"
+    ],
+    "authors": "William W. L. Cheung, Eva Maire, Muhammed A. Oyinlola, James P. W. Robinson, Nicholas A. J. Graham, Vicky W. Y. Lam, M. Aaron MacNeil, Christina C. Hicks",
+    "journal": "Nature Climate Change",
+    "short_journal": "Nat. Clim. Chang.",
+    "volume": "13",
+    "issue": "11",
+    "page": "1242-1249",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2023,
+        10,
+        30
+      ]
+    ],
+    "published_print": [
+      [
+        2023,
+        11
+      ]
+    ],
+    "issn": [
+      "1758-678X",
+      "1758-6798"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0",
+    "is_referenced_by_count": 21,
+    "reference_count": 68,
+    "journal_link": "https://doi.org/10.1038/s41558-023-01822-1",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "William W. L. Cheung, Eva Maire, Muhammed A. Oyinlola, James P. W. Robinson, Nicholas A. J. Graham, Vicky W. Y. Lam, M. Aaron MacNeil, Christina C. Hicks (2023). Climate change exacerbates nutrient disparities from seafood. <i>Nature Climate Change</i>. https://doi.org/10.1038/s41558-023-01822-1",
+    "citation_count": 21,
+    "date": "2023-11-01"
+  },
+  {
+    "doi": "10.1038/d41586-023-02480-1",
+    "title": "Indigenous youth must be at the forefront of climate diplomacy",
+    "authors": "<strong>Temitope Olawunmi Sogbanmu</strong>, Heather Sauyaq Jean Gordon, Lahcen El Youssfi, Fridah Dermmillah Obare, Seira Duncan, Marion Hicks, Khadeejah Ibraheem Bello, Faris Ridzuan, Adeyemi Oladapo Aremu",
+    "keywords": [
+      "Indigenous Peoples",
+      "climate vulnerability",
+      "traditional knowledge",
+      "environmental stewardship",
+      "cultural resilience",
+      "land dispossession",
+      "sustainable adaptation",
+      "biodiversity protection",
+      "climate justice",
+      "Indigenous ontologies",
+      "ethical traditions"
+    ],
+    "journal": "Nature",
+    "abstract": "As the climate crisis increasingly alters the planet, Indigenous Peoples around the world are disproportionately affected. Their livelihoods, identities and well-being have traditionally relied on lands and natural resources, and the regions they inhabit are susceptible to extreme weather events such as heatwaves, droughts, heavy rainfall and the thawing of permafrost. Indigenous Peoples are on the front line of the climate crisis, despite having contributed little to global emissions. These communities have lived in close relationships with their environments for thousands of years, developing sustainable ways of life, protecting natural ecosystems and adapting to changes such as climate variations and human-made disasters. Indigenous cultures, traditions and spirituality are connected to their environment. Invasions, colonizations, land dispossession and, in some cases, forced migrations have led to many Indigenous communities losing their rights, facing poverty and living in vulnerable regions with reduced capacities to adapt to the climate crisis. The confluence of these factors means that Indigenous Peoples are uniquely placed to provide sustainable adaptations to mitigate the climate crisis, drawing on their bodies of knowledge, ontologies, practices, ethical values, beliefs and traditions that have been passed down through generations. Today, almost 500 million people \u2014 around 6% of the global population \u2014 are members of Indigenous groups, including the authors. Indigenous Peoples steward more than one-quarter of lands around the globe, which contain 80% of Earth\u2019s remaining biodiversity.",
+    "short_journal": "Nature",
+    "volume": "620",
+    "issue": "7973",
+    "page": "273-276",
+    "publisher": "Springer Science and Business Media LLC",
+    "published_online": [
+      [
+        2023,
+        8,
+        4
+      ]
+    ],
+    "published_print": [
+      [
+        2023,
+        8,
+        10
+      ]
+    ],
+    "issn": [
+      "0028-0836",
+      "1476-4687"
+    ],
+    "license": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+    "is_referenced_by_count": 6,
+    "reference_count": 5,
+    "journal_link": "https://doi.org/10.1038/d41586-023-02480-1",
+    "type": "journal-article",
+    "score": 1,
+    "citation": "Temitope Olawunmi Sogbanmu, Heather Sauyaq Jean Gordon, Lahcen El Youssfi, Fridah Dermmillah Obare, Seira Duncan, Marion Hicks, Khadeejah Ibraheem Bello, Faris Ridzuan, Adeyemi Oladapo Aremu (2023). Indigenous youth must be at the forefront of climate diplomacy. <i>Nature</i>. https://doi.org/10.1038/d41586-023-02480-1",
+    "citation_count": 6,
+    "date": "2023-08-10"
   }
 ]
